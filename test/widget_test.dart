@@ -8,7 +8,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:untitled/main.dart';
+=======
+import 'package:class15_flutter_starting/main_and_text.dart';
+>>>>>>> 977928b (Learning widgets)
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

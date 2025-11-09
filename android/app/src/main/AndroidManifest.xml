@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="untitled"
+=======
+        android:label="class15_flutter_starting"
+>>>>>>> 977928b (Learning widgets)
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

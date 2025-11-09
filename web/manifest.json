@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "untitled",
     "short_name": "untitled",
+=======
+    "name": "class15_flutter_starting",
+    "short_name": "class15_flutter_starting",
+>>>>>>> 977928b (Learning widgets)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
